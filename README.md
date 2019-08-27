@@ -54,34 +54,47 @@ Before you start your work, you should let the community know what you're workin
 
 ## Create a directory for the video and add a translation.
 
-Each video in youtube has a unique identifier.  To see this identifier, simple copy a link to the video.  In this example, we'll look at the recent interview we did with Jay Taylor about his experiences learning Python.  Here are some links to this video:
+Each video in youtube has a unique identifier.  To see this identifier, simple copy a link to the video.  In this example, we'll look at the introductory video that is clickable from the NRELabs homepage.  Here are some links to this video:
 
 ```
-https://youtu.be/udn3Q9ARayU  
-https://www.youtube.com/watch?v=udn3Q9ARayU  
-https://www.youtube.com/watch?v=udn3Q9ARayU&feature=youtu.be
+https://youtu.be/YhbWBX71yGQ  
+https://www.youtube.com/watch?v=YhbWBX71yGQ  
+https://www.youtube.com/watch?v=YhbWBX71yGQ&feature=youtu.be
 ```
 
-The unique identifier for this video is **udn3Q9ARayU**.  In the project directory on your computer, look to see if a directory with this name already exists.  If it doesn't, we'll have to create the directory.  On linux this looks like this:
+The unique identifier for this video is **YhbWBX71yGQ**.  In the project directory on your computer, look to see if a directory with this name already exists.  If it doesn't, we'll have to create the directory.  On linux this looks like this:
 
 ```
 cloudtoad@debian-dev:~/youtube-translations$ pwd
 /home/cloudtoad/youtube-translations
-cloudtoad@debian-dev:~/youtube-translations$ mkdir udn3Q9ARayU
-cd udn3Q9ARayU
+cloudtoad@debian-dev:~/youtube-translations$ mkdir YhbWBX71yGQ
+cd YhbWBX71yGQ
 ```
 
 If this is a new directory, we need to create a README.md file.  In our example, one already exists.  It tells us what video it is with the title and description from youtube, plus a link to the video.
 
 ```
-example readme.md for video
+## Link
+
+[https://www.youtube.com/watch?v=YhbWBX71yGQ](https://www.youtube.com/watch?v=YhbWBX71yGQ)
+
+## Title
+
+Introduction to NRE Labs
+
+## Description
+
+Get a quick look at NRE Labs, a new, simpler way to start learning automation, right in your browser.
+
+[https://labs.networkreliability.engineering](https://labs.networkreliability.engineering)
+
 ```
 
 Once that is done, it's time to add a translation to this directory!  Let's suppose you're contributing a French translation.  Create a directory "French"
 
 ```
 cloudtoad@debian-dev:~/youtube-translations$ pwd
-/home/cloudtoad/youtube-translations/udn3Q9ARayU
+/home/cloudtoad/youtube-translations/YhbWBX71yGQ
 cloudtoad@debian-dev:~/youtube-translations$ mkdir French
 cd French
 ```
@@ -93,10 +106,10 @@ Ok, now create your SubViewer file here!  It should be named "French.sub"
 When you're all done, it's time to checkout a branch, commit your changes, and open a pull request.
 
 ```
-git checkout -b udn3Q9ARayU-French
+git checkout -b YhbWBX71yGQ-French
 git add *
-git commit -m "Created French translation for video udn3Q9ARayU."
-git push origin udn3Q9ARayU-French
+git commit -m "Created French translation for video YhbWBX71yGQ."
+git push origin YhbWBX71yGQ-French
 ```
 
 Now you should see your file in your own github fork of the repository.  Open a Pull Request to have your contribution reviewed and added to the video on Youtube.
