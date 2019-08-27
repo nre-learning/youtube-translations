@@ -1,0 +1,181 @@
+0:00:01.300,0:00:04.420
+Bonjour et bienvenue dans cette
+courte introduction à NRE labs.
+
+0:00:04.980,0:00:07.640
+Avez-vous essayé de vous mettre à l'automatisation, mais c'était
+
+0:00:07.640,0:00:10.860
+comme s'il vous fallait passer des mois à apprendre
+les termes et outils juste pour démarrer ?
+
+0:00:11.315,0:00:14.285
+L'automatisation est une compétence vraiment puissante,
+mais qui doit s'acquérir
+
+0:00:14.285,0:00:15.845
+ sur une longue période en balayant de 
+
+0:00:15.845,0:00:18.615
+nombreux  outils et procédés. 
+
+0:00:19.500,0:00:22.080
+Pour vous aider à débuter dans l'automatisation, nous lançons
+
+0:00:22.080,0:00:24.900
+NRE labs, qui vous permettra de démarrer
+
+0:00:24.900,0:00:26.085
+rapidement dans l'automatisation sans avoir à installer 
+
+0:00:26.085,0:00:28.965
+quoique ce soit sur votre ordinateur ou à connaître quoique ce soit à l'avance.
+
+0:00:28.965,0:00:31.715
+ Tout est
+là directement dans le navigateur. 
+
+0:00:32.095,0:00:33.595
+Quand on parle d'automatisation, on a tendance à se concentrer
+
+0:00:33.595,0:00:36.305
+sur la gestion des configurations. 
+
+0:00:36.785,0:00:39.155
+Bien que ce soit un aspect important de l'automatisation, on ne peut
+
+0:00:39.155,0:00:40.545
+se limiter à cet aspect.
+
+0:00:41.215,0:00:44.085
+NRE labs a été créé par et pour des ingénieurs, 
+
+0:00:44.255,0:00:46.925
+et par conséquent le contenu des cours concernera aussi des défis 
+
+0:00:46.925,0:00:48.975
+applicables en vrai, comme 
+déterminer ce qui ne fonctionne pas, 
+
+0:00:48.975,0:00:50.585
+ou la vérification en utilisant l'automatisation. 
+
+0:00:51.305,0:00:52.995
+Jetons un coup d'œuil à notre première leçon.
+
+0:00:53.835,0:00:56.325
+Ici, vous voyez une fenêtre de terminal où chaque équippement
+
+0:00:56.325,0:00:58.585
+réseau ou machine Linux est disponible pour
+
+0:00:58.585,0:01:00.215
+qu'on interagisse avec, direct dans le
+navigateur. 
+
+0:01:00.925,0:01:03.325
+Il ne s'agit pas d'équippements en lecture seule.
+
+0:01:03.325,0:01:06.255
+Ils sont instanciés pour vous quand vous accédez à la leçon, et vous pouvez jouer avec.
+
+0:01:07.485,0:01:09.565
+À gauche, on trouve un  guide pour la leçon qui explique le contenu
+
+0:01:09.565,0:01:12.215
+de la leçon ainsi que des fragments de code ou de commandes
+
+0:01:12.215,0:01:15.355
+pour qu'on les fasse tourner dans les onglets
+de terminaux sur la droite.
+
+0:01:16.765,0:01:19.405
+ Si vous avez entendu parler des API REST mais n'avez jamais eu le
+temps de mettre au point un environnement où vous
+
+0:01:19.405,0:01:21.965
+pourriez jouer avec elles, n'ayez pas peur.
+
+0:01:21.965,0:01:24.215
+Le guide de la leçon fournit des boutons que vous
+pouvez cliquer pour entrer les commandes correctes
+
+0:01:24.215,0:01:27.335
+dans le terminal de façon à ce que vous puissiez
+démarrer rapidement.
+
+0:01:28.245,0:01:31.105
+Par contre, vous n'êtes pas obligés de vous confirmer au guide du TP. C'est
+
+0:01:31.105,0:01:33.645
+votre environnement, donc quand vous avez terminé
+de suivre le guide,
+
+0:01:33.645,0:01:34.745
+amusez-vous avec.
+
+0:01:35.625,0:01:38.555
+Si vous avez déjà un peu d'expérience avec l'automatisation
+
+0:01:38.555,0:01:39.555
+nous avons des leçons pour vous aussi. 
+
+0:01:40.785,0:01:43.345
+Voici un exemple plus avancé où on lance une série de tests 
+
+0:01:43.345,0:01:45.285
+en utilisant Jsnappy pour vérifier
+
+0:01:45.285,0:01:47.955
+notre configuration BGP et que nos partenaires actifs
+
+0:01:47.955,0:01:49.805
+se comportent comme
+on s'y attend.
+
+0:01:50.235,0:01:53.225
+Et c'est seulement un exemple.Vous pouvez créer vos propres tests juste là
+
+0:01:53.225,0:01:54.765
+dans le navigateur.
+
+0:01:56.065,0:01:59.435
+NRE Labs peut aussi inclure du contenu Web plus avancé comme des notebooks
+Jupyter.
+
+0:02:00.025,0:02:03.005
+Ils sont très pratiques pour  faire tourner du code Python dans une interface graphique
+
+0:02:03.135,0:02:05.945
+et il y a beaucoup de contenu éducatif sur l'automatisation
+
+0:02:05.945,0:02:08.085
+qui utilise ce format. Donc nous souhaitons
+que NRE labs 
+
+0:02:08.085,0:02:10.075
+puisse héberger celà et encore plus. 
+
+0:02:11.745,0:02:15.245
+NRE labs est juste une instance du logiciel libre
+Antidote.
+
+0:02:16.165,0:02:19.175
+Antidote est un projet chapeau qui contient tous les logiciels qui
+
+0:02:19.175,0:02:22.635
+rendent possible NRE labs, y compris les
+définitions des leçons.
+
+0:02:23.465,0:02:26.205
+Si vous avez une vraiment bonne idée de leçon que vous voulez
+rendre disponible 
+
+0:02:26.205,0:02:29.055
+dans le navigateur, consultez le repo GitHub, et songez à créer une
+
+0:02:29.055,0:02:31.605
+pull request. Vous serez les très bienvenus.
+
+0:02:32.925,0:02:33.925
+Merci.
