@@ -1,6 +1,6 @@
 ## Link
 
-[![](http://img.youtube.com/vi/YhbWBX71yGQ/0.jpg)](https://www.youtube.com/watch?v=YhbWBX71yGQ)
+[![Click the image to go to the video on YouTube.](http://img.youtube.com/vi/YhbWBX71yGQ/0.jpg)](https://www.youtube.com/watch?v=YhbWBX71yGQ)
 
 ## Title
 
