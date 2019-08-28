@@ -1,0 +1,5 @@
+Introduction à NRE Labs
+
+Découvrez NRE Labs, une nouvelle façon de démarrer l'apprentissage de l'automatisation, directement dans le navigateur.
+
+https://labs.networkreliability.engineering/
