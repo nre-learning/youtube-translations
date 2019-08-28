@@ -1,0 +1,5 @@
+Introduction to NRE Labs
+
+Get a quick look at NRE Labs, a new, simpler way to start learning automation, right in your browser.
+
+https://labs.networkreliability.engineering/
