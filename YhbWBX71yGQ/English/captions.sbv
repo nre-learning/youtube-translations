@@ -1,0 +1,104 @@
+0:00:01.230,0:00:03.889
+Hello and welcome to this quick introduction to NRE labs
+
+0:00:04.799,0:00:10.279
+Have you tried getting started with automation, but felt like you had to spend months learning the terms and tools to even get started
+
+0:00:11.540,0:00:13.540
+Automation is a very powerful skill to have
+
+0:00:13.580,0:00:18.360
+but as a skill built over a long period of time across many different tools and processes
+
+0:00:19.500,0:00:21.080
+To help you get started with automation
+
+0:00:21.089,0:00:23.080
+we're announcing NRE labs
+
+0:00:23.189,0:00:28.998
+A way for you to quickly get started with automation without having to install anything on your laptop or know anything in advance
+
+0:00:29.759,0:00:32.000
+Everything is right here in the browser. 
+
+0:00:32.200,0:00:36.600
+When people talk about automation. They tend to focus on managing configurations
+
+0:00:36.600,0:00:40.060
+While this is an important aspect automation. It's far from the complete picture
+
+0:00:41.060,0:00:44.000
+NRE labs was built by and for engineers 
+
+0:00:44.100,0:00:49.080
+and as a result course content will also address real-world challenges like troubleshooting and
+
+0:00:49.080,0:00:51.080
+verification using automation
+
+0:00:51.270,0:00:53.270
+Let's take a look at our first lesson
+
+0:00:53.940,0:01:00.200
+Here we're presented with a terminal window where each network device or Linux machine is available for us to interact with, right here in the browser
+
+0:01:00.780,0:01:05.989
+These are not read-only devices. They're provisioned for you when you access this lesson and are yours to play with
+
+0:01:07.350,0:01:11.120
+To the left, we're presented with a lesson guide that explains the lesson content
+
+0:01:11.190,0:01:14.989
+As well as code or command snippets for us to execute in the terminal tabs on the right
+
+0:01:15.720,0:01:17.989
+If you've heard about REST APIs
+
+0:01:17.990,0:01:21.530
+But never had the time to set up an environment where you can play with them, have no fear
+
+0:01:21.530,0:01:27.050
+The lesson guide comes with buttons that you could click to type the right commands into the terminal so that you can quickly get started
+
+0:01:28.140,0:01:31.549
+However, you don't have to stick with the lab guide. The environment is yours
+
+0:01:31.549,0:01:34.759
+so when you're finished with the guided experience have some fun with it if
+
+0:01:35.640,0:01:39.320
+You already have a little bit of experience with automation. We have lessons for you as well
+
+0:01:40.620,0:01:45.889
+Here's a more advanced example where we execute a set of tests using Jsnappy to ensure our BGP
+
+0:01:46.049,0:01:49.368
+configuration as well as our active peers is behaving the way that we expect
+
+0:01:50.100,0:01:54.290
+This is just an example though. You can create your own tests right here in the browser
+
+0:01:55.500,0:01:59.150
+NRE labs can also embed more advanced web content like Jupyter notebooks
+
+0:01:59.939,0:02:06.709
+These are very handy for running Python code in a GUI and there's a lot of existing automation education content that uses this format
+
+0:02:06.900,0:02:09.830
+So we want to make sure NRE labs has a home for these and more
+
+0:02:11.640,0:02:14.809
+NRE labs is just one runtime of the open source project Antidote
+
+0:02:16.110,0:02:22.249
+Antidote is an umbrella project that contains all the software that makes NRE labs possible including the lesson definitions
+
+0:02:23.010,0:02:26.720
+If you have a really good idea for a lesson that you want to make available in the browser
+
+0:02:27.270,0:02:31.279
+Stop by the github repo and consider opening a pull request. We would love to have you
+
+0:02:32.790,0:02:34.790
+Thank you
